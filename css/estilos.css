@@ -6,7 +6,11 @@ h1{
 .formulario{
     border: 5px solid cornflowerblue;
    margin: 0px 300px 0px 300px;
+   padding: 2px 20px 2px 20px;
+   border-radius: 20px;
 }
+
+
 .centrar{
     padding: 0 auto;
     
