@@ -15,3 +15,11 @@ h1{
     padding: 0 auto;
     
 }
+.texto{
+    border: 2px solid gray;
+    padding: 2px 4px 2px 4px;
+    border-radius: 15px;
+    font-size: 17px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
