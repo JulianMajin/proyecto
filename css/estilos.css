@@ -1,0 +1,13 @@
+h1{
+    color:rgb(72, 174, 231 );
+    text-align: center;
+    font-size: 60px;
+}
+.formulario{
+    border: 5px solid cornflowerblue;
+   margin: 0px 300px 0px 300px;
+}
+.centrar{
+    padding: 0 auto;
+    
+}
