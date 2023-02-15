@@ -42,3 +42,17 @@ html{
     color: black;
     font-size: 2.5rem;
 }
+
+section{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+section div{
+    width: 50%;
+    box-shadow: 0 0 10px 10px rgba(89, 73 ,30, 0.16);
+    padding: 30px;
+}
+section div p{
+    font-size: 2.5rem;
+}
